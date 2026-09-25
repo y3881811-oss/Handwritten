@@ -1,1 +1,0 @@
-"""Handwritten verification suite."""
